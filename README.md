@@ -1,5 +1,5 @@
 ## Description
-The "Hover" script is a Unity component that allows you to create hover effects for GameObjects in your Unity project. When the mouse cursor hovers over a GameObject with the "Hover" script attached, the script triggers various visual effects, such as changing the emission color of the GameObject's materials, playing an animation, and activating a particle system. Additionally, it can display a UI object associated with the hovered GameObject.
+The "Hover" script is a Unity component that allows you to get visual feedback while you are hovering over GameObjects in your with mouse. When the mouse cursor hovers over a GameObject with the "Hover" script attached, the script triggers various visual effects, such as changing the emission color of the GameObject's materials, playing an animation, and activating a particle system. Additionally, it can display a UI object associated with the hovered GameObject.
 
 
 https://github.com/mozankatip/unity-mouse-hover/assets/47041584/a95c8645-d464-42b2-95a6-7c31e8b8c5a2
